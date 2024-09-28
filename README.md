@@ -6,9 +6,9 @@ The three templates follow a similar design pattern and are written with readabi
 
 **Support Cortex and Get Exclusive Access to DEX Bots!**
 
-We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+We're building advanced DEX bots for the community to support our mission at CoreSwap in redefining  Decentralized  Exchange participating in our presale, you'll gain early access to these bots and receive full setup support. 
 
-For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
+For more details, join our Discord at [Coreswap Community](https://discord.gg/AWDgU4WCwV)
 
 
 The templates all include an example **DEX flashloan arbitrage strategy** to demonstrate how the template can be used. It is a simple demonstration and will need some tweaking to make it work (mostly in regards to order size optimization and gas bidding strategy), though it will work as a real DEX arbitrage bot by doing:
