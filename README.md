@@ -4,11 +4,6 @@ You can find three MEV templates written in Python/Javascript/Rust here.
 
 The three templates follow a similar design pattern and are written with readability in mind. With the components introduced here, you can easily reproduce most of the MEV strategies known to people: sandwich, frontrunning, arbitrage, sniping, so on and so forth.
 
-**Support Cortex and Get Exclusive Access to DEX Bots!**
-
-We're building advanced DEX bots for the community to support our mission at CoreSwap in redefining  Decentralized  Exchange participating in our presale, you'll gain early access to these bots and receive full setup support. 
-
-For more details, join our Discord at [Coreswap Community](https://discord.gg/AWDgU4WCwV)
 
 
 The templates all include an example **DEX flashloan arbitrage strategy** to demonstrate how the template can be used. It is a simple demonstration and will need some tweaking to make it work (mostly in regards to order size optimization and gas bidding strategy), though it will work as a real DEX arbitrage bot by doing:
